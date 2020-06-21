@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="19D76" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Forecasting" representedClassName=".Forecasting" syncable="YES" codeGenerationType="class">
+        <attribute name="city" attributeType="String"/>
+        <attribute name="condition_id" attributeType="Integer 64" usesScalarValueType="NO"/>
+        <attribute name="condition_name" attributeType="String"/>
+        <attribute name="current_temp" attributeType="Double" usesScalarValueType="YES"/>
+        <attribute name="date" attributeType="String"/>
+        <attribute name="desc" attributeType="String" customClassName="[String]"/>
+        <attribute name="max_temp" attributeType="Double" usesScalarValueType="NO"/>
+        <attribute name="min_temp" attributeType="Double" usesScalarValueType="NO"/>
+    </entity>
+    <elements>
+        <element name="Forecasting" positionX="-63" positionY="-18" width="128" height="163"/>
+    </elements>
+</model>
